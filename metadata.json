@@ -1,0 +1,6 @@
+{
+  "name": "AI Workload Estimator",
+  "description": "Standardized system for defining and measuring AI/ML project workloads, enabling consistent pricing and resource planning for architects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
